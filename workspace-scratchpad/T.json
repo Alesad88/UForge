@@ -1,0 +1,66 @@
+{
+  "ColorDatabase": [
+    null,
+    "LinearColor"
+  ],
+  "PlayerCharacterIDs": [
+    "Guid",
+    null
+  ],
+  "m_PerConditionValueToNodeMap": [
+    "Guid",
+    null
+  ],
+  "BindingIdToReferences": [
+    "Guid",
+    null
+  ],
+  "UserParameterRedirects": [
+    "NiagaraVariable",
+    "NiagaraVariable"
+  ],
+  "Tracks": [
+    "MovieSceneTrackIdentifier",
+    null
+  ],
+  "TrackReferenceCounts": [
+    "MovieSceneTrackIdentifier",
+    null
+  ],
+  "SubSequences": [
+    "MovieSceneSequenceID",
+    null
+  ],
+  "Hierarchy": [
+    "MovieSceneSequenceID",
+    0
+  ],
+  "TrackSignatureToTrackIdentifier": [
+    "Guid",
+    "MovieSceneTrackIdentifier"
+  ],
+  "SoftwareCursors": [
+    "Guid",
+    "SoftClassPath"
+  ],
+  "ItemsToRefund": [
+    "Guid",
+    null
+  ],
+  "PlayerCharacterIDMap": [
+    "Guid",
+    null
+  ],
+  "RainChanceMinMaxPerWeatherState": [
+    null,
+    "FloatRange"
+  ],
+  "Assets": [
+    "Guid",
+    null
+  ],
+  "PlanetOffsets": [
+    null,
+    "Vector"
+  ]
+}
